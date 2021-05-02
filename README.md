@@ -1,4 +1,4 @@
 # linktoss
-Peer to Peer Coin flip Gambling powered by Chainlink
+Peer to peer coin flip gambling powered by Chainlink
 
 # Play at `linktoss.xyz`
